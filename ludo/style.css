@@ -1,0 +1,29 @@
+ .one{
+    background-color: red;
+    width:3rem;
+   height:3rem;
+}
+.two{
+    border: 1px solid black;
+    width: 3rem;
+    height:3rem;
+}
+
+.three{
+    background-color: blue;
+    width: 3rem;
+    height:3rem;
+}
+
+.four{
+    background-color: yellow;
+    width: 3rem;
+    height:3rem;
+}
+
+.five{
+    background-color: green;
+    width: 3rem;
+    height:3rem;
+}
+

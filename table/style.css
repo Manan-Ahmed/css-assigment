@@ -1,0 +1,77 @@
+ .container{
+    border: 1px solid;
+    width: 1000px;
+    height: 1000px;
+    margin: 10px auto;  
+     
+}
+.red{
+    border: 1px;
+    background-color: red;
+    width: 800px;
+    height: 800px;
+    
+    
+}
+.green{
+    border: 1px;
+    background-color: green;
+    width: 800px;
+    height: 800px;
+    
+    
+}
+.blue{
+    border: 1px;
+    background-color: blue;
+    width: 800px;
+    height: 800px;
+    
+}
+.yellow{
+    border: 1px;
+    background-color: yellow;
+    width: 800px;
+    height: 800px;
+    
+
+}
+
+.box{
+    border: 1px solid;
+    width: 500px;
+    height: 500px;
+    margin: 1pc;
+    
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

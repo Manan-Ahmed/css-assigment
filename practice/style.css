@@ -1,0 +1,66 @@
+
+
+
+
+*{
+    font-family:'Times New Roman', Times, serif
+}
+
+h1{
+   color: aqua; 
+   text-shadow: -10px -10px 10px grey  ;
+}
+i{
+    color: red;
+}
+p.special,.long{
+    font-style: italic;
+    color: greenyellow;
+    
+}
+
+#js{
+    text-decoration: underline;
+    border:
+}
+
+       
+   
+ .pk li{
+      color: blue;
+ }
+ p #credits{
+        font-weight: bold;
+ }
+ p{
+    font-style: italic;
+ }
+
+ p b{
+    color: red;
+ }
+ p b{
+    color: aqua;
+ }
+  p b{
+    color: brown !important;
+ }  
+
+ p.big{
+   
+    text-indent: 50px;
+    letter-spacing: 0.2em;
+ word-spacing: 0cqi;
+ text-align: justify;
+ }
+
+   
+ 
+  
+
+
+
+
+
+
+

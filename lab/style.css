@@ -1,0 +1,232 @@
+*{
+    text-decoration: none;
+}
+
+
+
+/* .nav-bar>ul {
+    display: flex;
+    width: 45%;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 1.5em;
+    color: #8dc63f;
+} */
+
+
+
+ .navbar{
+     background-color: white;
+    width: 100%;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+      padding: 10px;
+       position: fixed;
+      top: 0; 
+      left: 0;
+        
+
+     
+} */
+
+
+.navbar>img{
+    width: 70px;
+}
+
+ .navbar>li a{
+    color: #8dc63f;
+      display: inline-block;
+      justify-content:center;
+
+
+}
+
+
+.navbar>li{
+    color:   #8dc63f;
+
+
+}
+
+
+
+
+.navbar>ul{
+
+    
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+   
+} 
+.navbar>li{
+    
+    list-style-type: none;
+}
+
+.navbar a:hover{
+        color: #8dc63f;
+} 
+
+
+
+
+
+
+
+
+
+.dot{
+    position: fixed;
+    top:  5%;
+    left: 25%;
+   padding: 10px;
+    border-radius: 20px; 
+       background-color: #8dc63f;
+    width: 500px;
+    height: 80px;
+    z-index: -5;
+   
+}
+.pic{
+    width: 60px;
+}
+.container2{
+    position: relative;
+    top: 150px;
+   
+    display: flex;
+
+     flex-wrap: wrap;
+     width: 60%;
+     margin: 0 auto;
+} 
+.container2>div{
+    width: 28%;
+   padding: 2%;
+    /* text-align: center; */
+}
+
+
+
+
+
+
+
+
+
+.chats{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+.chats>img{
+    width: 60px;
+}
+
+@media only screen and (max-width:600px){
+    body{
+        margin: 0;
+        padding: 0;
+    }
+.navbar{
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    position: sticky;
+    padding: 0;
+    }
+
+    .navbar>ul{
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+        font-size: 20px;
+        margin-bottom: 0;
+        padding-left: 0;
+        background-color: #8dc63f;
+        position: sticky;
+      
+   }
+    .navbar>ul>li{
+        padding: 10px 0;
+    }
+    .navbar>img{
+         /* width: 150px; */
+        /* height: 100px; */ */
+    }
+
+    .dot{
+        display: none;
+    }
+
+    .container2{
+        position: static;
+        top: 0;
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .container2>div{
+        width: 100%;
+        padding-bottom: 0;
+
+
+    }
+    
+    .chats{
+        position: fixed;
+        right: 10px;
+        bottom: 20px;
+    }
+    .chats>img{
+        width: 40px;
+    }
+
+    
+
+    
+}
+    
+
+/* .para{
+   width: 300px;
+
+}
+
+
+.box{
+    width: 300px;
+    /* margin: 10px; */
+}
+
+/* .box2{
+    width: 300px;
+}
+
+
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+.bag{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+.head{
+    display: flex;
+    justify-content: space-around;
+} */
+
+
+    /* top: 1px solid greenyellow; */
+} */

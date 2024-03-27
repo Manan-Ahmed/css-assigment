@@ -1,0 +1,86 @@
+
+
+
+
+@font-face {
+     font-family: "alex brush";
+    src: url("fonts/AlexBrush-Regular.ttf"); 
+}
+
+@font-face {
+    font-family: "kaushan";
+    src: url("fonts/KaushanScript-Regular.otf");
+}
+
+* {
+    background-color: pink;
+
+}
+h1{
+    background-color:;
+    color: green;
+    text-shadow: 10px 1px 10px #f3efef;
+}
+
+
+/* h1 {
+     font-family: 'alex brush'; 
+    color: red; */
+}
+
+p {
+     font-family: 'kaushan';
+    
+    /* color: red;  */
+}
+
+
+/* h1+p {
+     color: green; 
+} */
+
+ h1~p {
+      background-color: aliceblue; 
+} 
+
+
+h1 {
+    text-indent: 100px;
+}
+
+
+p {
+    
+    text-indent: 40px;
+}  */
+a:link{
+    color:  deeppink;
+    border: none;
+    text-decoration: none;
+
+}
+a:visited { 
+    color: red;
+} 
+a:hover{
+    color: deeppink;
+    text-decoration: none;
+}
+a:active {
+     color: yellow;
+    }
+
+    input:focus{
+             background-color: burlywood;
+    }
+    input:active{
+        background-color: gray;
+    }
+    input.login:hover{
+        background-color: aqua;
+    }
+    input {
+         padding: 6px 12px 6px 12px;
+          border: 1px solid #665544; 
+          color: #ffffff;} 
+

@@ -1,0 +1,162 @@
+
+    /* background-image: url(images/tulip.gif);
+    background-repeat: no-repeat;
+    background-attachment: scroll; */
+    /* background-size: cover; */
+
+     /* background-position: center center;
+    background-color: #f3d4d1; */ */
+
+
+
+    /* background: #f3d4d1 url("images/rosebg1.avif") fixed center center no-repe
+    /* font-size: 64px;
+    height: 100px; */
+    /* background: #ffffff url("images/header.gif") repeat; */
+}
+
+/* .bg-img{
+    background: #ffffff url('images/tulip.gif') no-repeat scroll top right;
+    
+} */
+
+
+
+/* h3{
+    background-color: antiquewhite;
+    margin: 2px;
+    padding: 2px;
+    height:25px;
+    width: 120px;
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+}
+.special{
+    height:40px;
+}
+.container {
+    border: 1px solid red;
+    height: 150px;
+    display: flex;
+    /* flex-direction: row-reverse; */
+    /* flex-wrap: wrap; */ */ */
+     /* justify-content: space-between; 
+     align-items: center;  */
+} */
+
+
+
+
+
+.rayyan{
+    display: flex;
+    justify-content: center;
+}
+  
+
+
+
+
+.box{
+    padding: 10px;
+} 
+
+.box{
+    width: 150px;
+}
+
+.fox{
+    display: flex; 
+   justify-content: center;
+   text-align: center;
+
+}
+.one{
+    
+    border-bottom: 3px solid #919191;
+    
+
+}
+
+.one:hover{
+    color: white;
+    background-color: gray;
+}
+
+.two{
+    border-bottom: 3px solid #e3350d;
+       
+
+}
+
+.two:hover{
+    color: white;
+   background-color:  #e3350d;
+}
+
+.three{
+    border-bottom: 3px solid #ee6b2f;
+       
+
+}
+
+.three:hover{
+    color: white;
+    background-color: #ee6b2f;
+}
+
+.four{
+    border-bottom: 3px solid #e6bc2f;
+       
+
+}
+
+.four:hover{
+    color: white;
+    background-color: #e6bc2f;
+}
+
+.five{
+    border-bottom: 3px solid #4dad5b;
+       
+
+}
+
+.five:hover{
+    color: white;
+    background-color: #4dad5b;
+}
+
+.six{
+    border-bottom: 3px solid #30a7d7;
+       
+
+}
+
+.six:hover{
+    color: white;
+    background-color: #30a7d7;
+}
+
+.seven{
+    border-bottom: 3px solid #1b53ba;
+       
+
+}
+
+.seven:hover{
+    color: white;
+    background-color: #1b53ba;
+}
+
+
+.para{
+    font-size: 20px;
+}
+
+
+
+
+

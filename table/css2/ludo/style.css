@@ -1,0 +1,57 @@
+ .board{
+     margin:10;auto
+     border: 2px solid
+     width:fit-content;
+    }
+    .row{
+        display: flex;
+    }
+    .red{
+        background-color: ;
+    }
+   .green{
+      background-color: ;
+   }
+  .blue{
+    background-color: ;
+  }
+  .yellow{
+    background-color: ;
+  }
+  .redbox{
+         background-color: red;
+         width: 250px;
+         height: 250px;
+         margin: 20% auto;
+         border: 1px solid #000;
+  }
+  .whitebox{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 20% auto;
+    border: 1px solid;
+        
+  }
+  .whitebox.circle{
+  border-radius: 50%
+  width: 40px;
+  height: 40px;
+  float:left;
+  margin: 16px auto;
+  border: 1px solid #000;
+}
+.cell{
+    width: 40px;
+    height: 40px;
+    border: 1px solid#000;
+}
+.greenbox{
+        background-color: green;
+        width: 250px;
+        height: 250px;
+        margin: 20% auto;
+        border: 1px solid #000;
+}
+
+
